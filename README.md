@@ -6,4 +6,4 @@ to use, click code, then click download zip. Then, extract the zip file using WI
 
 gameserver credits so people dont think this is like a main fortnite swapper: https://discord.gg/elixirfn
 
-twitter: @RALZLFY
+if you have some paks youve made/want to share, reach out to me on either twitter (@RALZLFY), or discord (@r6lz)

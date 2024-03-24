@@ -1,5 +1,13 @@
-# era-swapper
+# HOW-TO-USE
 
-to use, click code, then click download zip. Then, extract the zip file using WINRAR (https://www.rarlab.com/rar/winrar-x64-623.exe), and copy the pak and sig you want, then press windows key and r (win+r), and type %localappdata%. From here, go to FortniteGame, Saved, and make a folder called "Paks". Paste the paks you want in here. NOTE: Make sure to change the name of the pak to have _P at the end. (ex: pakchunkRenegade_P.pak)
+1: Click the green "<> Code ▼" Symbol, then click "Download ZIP". 
+2: Extract using [WinRar](https://www.rarlab.com/rar/winrar-x64-700.exe) or [7zip](https://7-zip.org/a/7z2301-x64.exe). 
+3: Find the swap(s) you want to use, copy them, then press the windows key and r (win+r), and type "%localappdata%". 
+4: From here, go to FortniteGame, Saved, and make a folder called "Paks". Put the paks in there.
 
-if you have some paks youve made/want to share, reach out to me on either twitter (@RALZLFY), or discord (@ralzify)
+# NOTES:
+
+- We are NOT responsible for a ban using these. If you're cautious then you'll be fine.
+- If you know how, and plan to make your own paks, *make sure you're putting the _P at the end of the name **(ex: pakchunkLightning-WindowsClient_P.pak)***
+- If you would like to add to this github, either open a pull request, or DM me on discord (@ralzify) and I'll add the paks. Make sure they are for 8.51.
+
